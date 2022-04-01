@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Geocoding_Yandex", "Geocoding_Yandex\Geocoding_Yandex.pyproj", "{03DA7451-D472-44B3-97B9-F831AC912F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DA7451-D472-44B3-97B9-F831AC912F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DA7451-D472-44B3-97B9-F831AC912F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF71A6BA-C34C-46CE-814A-B6315FAE435B}
+	EndGlobalSection
+EndGlobal
